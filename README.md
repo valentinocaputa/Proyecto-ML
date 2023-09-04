@@ -1,4 +1,4 @@
-# Proyecto-ML
+# Proyecto-ML Valentino Caputa, Jimena Fioni, Gonzalo Ducca, Silvina De Micco
 ###Etapas del proyecto
 
 Recolección de datos: Empezamos con la recoleccion de datos relevantes relacionados con diferentes modelos de autos, especificaciones técnicas, características y otros factores importantes.
