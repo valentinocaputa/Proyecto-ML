@@ -1,4 +1,4 @@
-# Proyecto-ML Valentino Caputa, Jimena Fioni, Gonzalo Ducca, Silvina De Micco
+# Proyecto-ML 
 ###Etapas del proyecto
 
 Recolección de datos: Empezamos con la recoleccion de datos relevantes relacionados con diferentes modelos de autos, especificaciones técnicas, características y otros factores importantes.
@@ -12,3 +12,6 @@ Seleccion y entrenamiento de modelos: Hicimos un evaluamiento de algoritmos de m
 Evaluacion de modelos: Comparando diferentes metricas, deducimos que modelo fue el mas efectivo.
 
 Resultados: Finalmente, el modelo de regresion logistica fue el que mejor resultado obtuvo.
+
+
+Valentino Caputa, Jimena Fioni, Gonzalo Ducca, Silvina De Micco
