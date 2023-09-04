@@ -14,4 +14,4 @@ Evaluacion de modelos: Comparando diferentes metricas, deducimos que modelo fue 
 Resultados: Finalmente, el modelo de regresion logistica fue el que mejor resultado obtuvo.
 
 
-Valentino Caputa, Jimena Fioni, Gonzalo Ducca, Silvina De Micco
+                            Valentino Caputa, Jimena Fioni, Gonzalo Ducca, Silvina De Micco
