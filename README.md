@@ -1,5 +1,6 @@
 # Proyecto-ML
-Etapas del proyecto
+###Etapas del proyecto
+
 Recolección de datos: Empezamos con la recoleccion de datos relevantes relacionados con diferentes modelos de autos, especificaciones técnicas, características y otros factores importantes.
 
 Analisis exploratorio de datos (EDA): Realizamos un analisis profundo de los datos para identificar tendencias, patrones y relaciones entre las diferentes variables.
